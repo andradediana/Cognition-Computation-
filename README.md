@@ -1,0 +1,2 @@
+The purpose of this project is to explore Deep Belief Networks' (DBNs) performance, understand hierarchical models' behaviour at each level, and compare it with different architectures on challenging situations, such as noisy datasets and adversarial attacks.
+The main architecture implemented in this project is based on the Hinton and Salakhutdinov's (2006). This architecture is composed by a stack of three Restricted Boltzman Machines (RBMs), and will be tested on Fashion MNIST Dataset, which is well-known variant of the public MNIST dataset. 
